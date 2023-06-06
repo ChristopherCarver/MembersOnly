@@ -15,5 +15,3 @@ Members Only is a custom true/false field on the *Group [sys_user_group]* table.
 - manager of the assignment group
 - members of the assignment group
 - accounts with the members_only_override role
-
-If you follow the steps below, you can add, remove, or change criteria as warranted to fit your business requirements.
